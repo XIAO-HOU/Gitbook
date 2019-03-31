@@ -10,5 +10,5 @@
 * [3、进一步的功能](chapter3.md)
 * [4、附录](chapter4.md)
   * [4.1 Git相关命令](chapter4/41-gitxiang-guan-ming-ling.md)
-  * 4.2 Github操作指南
+  * [4.2 Github操作指南](chapter4/42-githubcao-zuo-zhi-nan.md)
 
